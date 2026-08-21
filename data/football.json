@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-08-21T06:12:23.964154+00:00",
+  "real_madrid": {
+    "last": null,
+    "next": {
+      "home": "Espanyol",
+      "away": "Real Madrid",
+      "date": "2026-08-22T19:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division"
+    }
+  },
+  "tottenham": {
+    "last": null,
+    "next": {
+      "home": "Brentford",
+      "away": "Tottenham",
+      "date": "2026-08-22T16:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League"
+    }
+  },
+  "champions_league": []
+}
