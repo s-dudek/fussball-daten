@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T19:08:12.670683+00:00",
+  "updated_at": "2026-08-21T19:55:17.448332+00:00",
   "matches": [
     {
       "home": "Atleti",
@@ -35,7 +35,7 @@
       "home": "Arsenal",
       "away": "Coventry City",
       "date": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/57.png",
