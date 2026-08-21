@@ -1,7 +1,12 @@
 """
-Holt Fußballdaten (Real Madrid, Tottenham, Champions League) von football-data.org
-und speichert sie als data/football.json im Repo. Wird von der GitHub Action
-(.github/workflows/update-football.yml) regelmäßig automatisch ausgeführt.
+Holt Fußballdaten für die gewünschten Ligen (Champions League, Premier League, La Liga,
+Serie A, Ligue 1, Bundesliga) rund um heute und speichert sie als data/football.json im
+Repo. Wird von der GitHub Action (.github/workflows/update-football.yml) regelmäßig
+automatisch ausgeführt.
+
+Es werden ALLE Spiele dieser sechs Wettbewerbe im Zeitfenster geholt (inkl. Vereinswappen),
+nicht nur einzelne Teams – wie beim Tages-Dashboard. Auf der Live-Seite kann dann nach
+Liga gefiltert werden.
 
 Der API-Key kommt aus der Umgebungsvariable FOOTBALL_DATA_KEY (GitHub-Secret) -
 steht NICHT im Klartext in diesem Skript oder im Repo.
@@ -15,6 +20,10 @@ from datetime import date, timedelta, datetime, timezone
 API_KEY = os.environ["FOOTBALL_DATA_KEY"]
 BASE = "https://api.football-data.org/v4"
 
+# Gewünschte Ligen: Champions League, Premier League, La Liga, Serie A, Ligue 1, Bundesliga.
+# Die österreichische Bundesliga (Sturm Graz) ist im kostenlosen Tarif nicht enthalten.
+COMPETITIONS = ["CL", "PL", "PD", "SA", "FL1", "BL1"]
+
 
 def fd_get(path):
     req = urllib.request.Request(BASE + path, headers={"X-Auth-Token": API_KEY})
@@ -22,17 +31,7 @@ def fd_get(path):
         return json.load(resp)
 
 
-def resolve_team_id(comp_code, name_contains):
-    data = fd_get(f"/competitions/{comp_code}/teams")
-    for team in data.get("teams", []):
-        if name_contains in (team.get("name") or "") or name_contains in (team.get("shortName") or ""):
-            return team["id"]
-    raise RuntimeError(f"{name_contains} nicht gefunden in Wettbewerb {comp_code}")
-
-
 def fmt_match(m):
-    if not m:
-        return None
     home = m["homeTeam"].get("shortName") or m["homeTeam"].get("name")
     away = m["awayTeam"].get("shortName") or m["awayTeam"].get("name")
     score = None
@@ -46,57 +45,38 @@ def fmt_match(m):
         "status": m["status"],
         "score": score,
         "competition": m["competition"]["name"],
+        # Vereinswappen direkt von football-data.org, falls vorhanden - werden auf der
+        # Live-Seite bei jedem Spiel angezeigt.
+        "homeCrest": m["homeTeam"].get("crest"),
+        "awayCrest": m["awayTeam"].get("crest"),
     }
 
 
-def team_last_next(comp_code, name_contains):
-    team_id = resolve_team_id(comp_code, name_contains)
-    today = date.today()
-    date_from = (today - timedelta(days=14)).isoformat()
-    date_to = (today + timedelta(days=21)).isoformat()
-    data = fd_get(f"/teams/{team_id}/matches?dateFrom={date_from}&dateTo={date_to}")
-    matches = data.get("matches", [])
-    finished = sorted(
-        [m for m in matches if m["status"] == "FINISHED"],
-        key=lambda m: m["utcDate"],
-        reverse=True,
-    )
-    upcoming = sorted(
-        [m for m in matches if m["status"] in ("SCHEDULED", "TIMED")],
-        key=lambda m: m["utcDate"],
-    )
-    return {
-        "last": fmt_match(finished[0]) if finished else None,
-        "next": fmt_match(upcoming[0]) if upcoming else None,
-    }
-
-
-def champions_league():
-    today = date.today()
-    date_from = (today - timedelta(days=5)).isoformat()
-    date_to = (today + timedelta(days=21)).isoformat()
-    data = fd_get(f"/competitions/CL/matches?dateFrom={date_from}&dateTo={date_to}")
-    matches = sorted(data.get("matches", []), key=lambda m: m["utcDate"])
-    return [fmt_match(m) for m in matches[:6]]
+def matches_for_competition(comp_code, date_from, date_to):
+    data = fd_get(f"/competitions/{comp_code}/matches?dateFrom={date_from}&dateTo={date_to}")
+    return [fmt_match(m) for m in data.get("matches", [])]
 
 
 def main():
-    result = {"updated_at": datetime.now(timezone.utc).isoformat()}
+    today = date.today()
+    # Grosszügiges Fenster, damit Gestern/Heute/Morgen auf der Live-Seite immer genug
+    # Auswahl haben, unabhängig davon, wann genau die Action gerade läuft.
+    date_from = (today - timedelta(days=2)).isoformat()
+    date_to = (today + timedelta(days=3)).isoformat()
 
-    try:
-        result["real_madrid"] = team_last_next("PD", "Real Madrid")
-    except Exception as e:
-        result["real_madrid"] = {"error": str(e)}
+    result = {"updated_at": datetime.now(timezone.utc).isoformat(), "matches": []}
+    errors = {}
 
-    try:
-        result["tottenham"] = team_last_next("PL", "Tottenham")
-    except Exception as e:
-        result["tottenham"] = {"error": str(e)}
+    for comp_code in COMPETITIONS:
+        try:
+            result["matches"].extend(matches_for_competition(comp_code, date_from, date_to))
+        except Exception as e:
+            errors[comp_code] = str(e)
 
-    try:
-        result["champions_league"] = champions_league()
-    except Exception as e:
-        result["champions_league"] = {"error": str(e)}
+    if errors:
+        result["errors"] = errors
+
+    result["matches"].sort(key=lambda m: m["date"])
 
     os.makedirs("data", exist_ok=True)
     with open("data/football.json", "w", encoding="utf-8") as f:
