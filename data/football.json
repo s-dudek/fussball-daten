@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:54:20.937035+00:00",
+  "updated_at": "2026-08-21T21:54:12.544548+00:00",
   "matches": [
     {
       "home": "Atleti",
@@ -25,8 +25,8 @@
       "home": "Real Betis",
       "away": "Real Sociedad",
       "date": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
       "awayCrest": "https://crests.football-data.org/92.png"
@@ -35,8 +35,8 @@
       "home": "Arsenal",
       "away": "Coventry City",
       "date": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/57.png",
       "awayCrest": "https://crests.football-data.org/1076.png"
