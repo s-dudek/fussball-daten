@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T19:02:18.285689+00:00",
+  "updated_at": "2026-08-22T19:52:50.702030+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -95,8 +95,8 @@
       "home": "Valencia",
       "away": "Celta",
       "date": "2026-08-22T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/558.png"
@@ -105,7 +105,7 @@
       "home": "Espanyol",
       "away": "Real Madrid",
       "date": "2026-08-22T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/80.png",
