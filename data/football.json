@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T13:43:25.639395+00:00",
+  "updated_at": "2026-08-22T14:51:20.956780+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -45,7 +45,7 @@
       "home": "Ipswich Town",
       "away": "Sunderland",
       "date": "2026-08-22T14:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/349.png",
@@ -55,7 +55,7 @@
       "home": "Nottingham",
       "away": "Leeds United",
       "date": "2026-08-22T14:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/351.png",
@@ -65,7 +65,7 @@
       "home": "Everton",
       "away": "Crystal Palace",
       "date": "2026-08-22T14:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/62.png",
