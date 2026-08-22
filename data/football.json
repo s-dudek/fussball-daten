@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-08-21T23:52:12.304095+00:00",
+  "updated_at": "2026-08-22T03:08:27.448104+00:00",
   "matches": [
-    {
-      "home": "Atleti",
-      "away": "Málaga",
-      "date": "2026-08-19T19:00:00Z",
-      "status": "FINISHED",
-      "score": "2:0",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/78.png",
-      "awayCrest": "https://crests.football-data.org/84.png"
-    },
     {
       "home": "Rayo Vallecano",
       "away": "Alavés",
@@ -210,6 +200,16 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/84.png",
       "awayCrest": "https://crests.football-data.org/560.png"
+    },
+    {
+      "home": "Valencia",
+      "away": "Real Betis",
+      "date": "2026-08-25T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/95.png",
+      "awayCrest": "https://crests.football-data.org/90.png"
     }
   ]
 }
