@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:51:20.956780+00:00",
+  "updated_at": "2026-08-22T15:45:27.451432+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -75,7 +75,7 @@
       "home": "Athletic",
       "away": "Sevilla FC",
       "date": "2026-08-22T15:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/77.png",
