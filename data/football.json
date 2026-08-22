@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:59:59.981562+00:00",
+  "updated_at": "2026-08-22T10:54:44.978421+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -211,8 +211,5 @@
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/90.png"
     }
-  ],
-  "errors": {
-    "CL": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
-  }
+  ]
 }
