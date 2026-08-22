@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T11:42:51.451609+00:00",
+  "updated_at": "2026-08-22T13:43:25.639395+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -35,8 +35,8 @@
       "home": "Hull City",
       "away": "Man United",
       "date": "2026-08-22T11:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/322.png",
       "awayCrest": "https://crests.football-data.org/66.png"
