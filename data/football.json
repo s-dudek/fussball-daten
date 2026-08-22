@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:52:42.655267+00:00",
+  "updated_at": "2026-08-22T21:45:18.138725+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -105,8 +105,8 @@
       "home": "Espanyol",
       "away": "Real Madrid",
       "date": "2026-08-22T19:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/80.png",
       "awayCrest": "https://crests.football-data.org/86.png"
