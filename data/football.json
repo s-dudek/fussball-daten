@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T14:54:20.302700+00:00",
+  "updated_at": "2026-08-23T15:48:49.913672+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -105,8 +105,8 @@
       "home": "Man City",
       "away": "Bournemouth",
       "date": "2026-08-23T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/65.png",
       "awayCrest": "https://crests.football-data.org/bournemouth.png"
@@ -115,8 +115,8 @@
       "home": "Brighton Hove",
       "away": "Aston Villa",
       "date": "2026-08-23T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/397.png",
       "awayCrest": "https://crests.football-data.org/58.png"
@@ -125,7 +125,7 @@
       "home": "Atleti",
       "away": "Villarreal",
       "date": "2026-08-23T15:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/78.png",
@@ -135,7 +135,7 @@
       "home": "Newcastle",
       "away": "Liverpool",
       "date": "2026-08-23T15:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/67.png",
