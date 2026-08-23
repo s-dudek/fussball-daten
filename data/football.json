@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T11:50:18.516380+00:00",
+  "updated_at": "2026-08-23T13:45:15.790450+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -105,7 +105,7 @@
       "home": "Man City",
       "away": "Bournemouth",
       "date": "2026-08-23T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/65.png",
@@ -115,7 +115,7 @@
       "home": "Brighton Hove",
       "away": "Aston Villa",
       "date": "2026-08-23T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/397.png",
