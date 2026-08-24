@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:19:46.225623+00:00",
+  "updated_at": "2026-08-24T20:59:36.449129+00:00",
   "matches": [
     {
       "home": "Hull City",
@@ -145,8 +145,8 @@
       "home": "Osasuna",
       "away": "Levante",
       "date": "2026-08-24T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
       "awayCrest": "https://crests.football-data.org/88.png"
@@ -165,7 +165,7 @@
       "home": "Málaga",
       "away": "Deportivo",
       "date": "2026-08-24T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/84.png",
