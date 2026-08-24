@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-08-23T23:43:17.050882+00:00",
+  "updated_at": "2026-08-24T03:33:15.993870+00:00",
   "matches": [
-    {
-      "home": "Real Betis",
-      "away": "Real Sociedad",
-      "date": "2026-08-21T19:00:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/90.png",
-      "awayCrest": "https://crests.football-data.org/92.png"
-    },
-    {
-      "home": "Arsenal",
-      "away": "Coventry City",
-      "date": "2026-08-21T19:00:00Z",
-      "status": "FINISHED",
-      "score": "3:0",
-      "competition": "Premier League",
-      "homeCrest": "https://crests.football-data.org/57.png",
-      "awayCrest": "https://crests.football-data.org/1076.png"
-    },
     {
       "home": "Hull City",
       "away": "Man United",
@@ -210,6 +190,26 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayCrest": "https://crests.football-data.org/92.png"
+    },
+    {
+      "home": "Celta",
+      "away": "Osasuna",
+      "date": "2026-08-27T18:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/558.png",
+      "awayCrest": "https://crests.football-data.org/79.png"
+    },
+    {
+      "home": "Barça",
+      "away": "Athletic",
+      "date": "2026-08-27T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/81.png",
+      "awayCrest": "https://crests.football-data.org/77.png"
     }
   ]
 }
