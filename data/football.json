@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T16:16:44.266049+00:00",
+  "updated_at": "2026-08-24T17:53:19.816624+00:00",
   "matches": [
     {
       "home": "Hull City",
@@ -145,7 +145,7 @@
       "home": "Osasuna",
       "away": "Levante",
       "date": "2026-08-24T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
