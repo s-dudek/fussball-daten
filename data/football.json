@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:53:19.816624+00:00",
+  "updated_at": "2026-08-24T19:19:46.225623+00:00",
   "matches": [
     {
       "home": "Hull City",
@@ -155,7 +155,7 @@
       "home": "Fulham",
       "away": "Chelsea",
       "date": "2026-08-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/63.png",
