@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T19:45:27.096615+00:00",
+  "updated_at": "2026-08-25T21:00:01.132179+00:00",
   "matches": [
     {
       "home": "Man City",
@@ -95,7 +95,7 @@
       "home": "Valencia",
       "away": "Real Betis",
       "date": "2026-08-25T19:00:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
