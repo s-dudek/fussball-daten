@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T21:52:18.802810+00:00",
+  "updated_at": "2026-08-28T22:03:53.774974+00:00",
   "matches": [
     {
       "home": "Real Madrid",
@@ -55,8 +55,8 @@
       "home": "Alavés",
       "away": "Villarreal",
       "date": "2026-08-28T19:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/94.png"
