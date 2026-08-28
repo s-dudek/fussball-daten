@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T23:24:07.680794+00:00",
+  "updated_at": "2026-08-28T23:43:52.646064+00:00",
   "matches": [
     {
       "home": "Real Madrid",
@@ -35,8 +35,8 @@
       "home": "Santander",
       "away": "Elche",
       "date": "2026-08-28T17:00:00Z",
-      "status": "FINISHED",
-      "score": "3:2",
+      "status": "TIMED",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayCrest": "https://crests.football-data.org/285.png"
@@ -55,8 +55,8 @@
       "home": "Alavés",
       "away": "Villarreal",
       "date": "2026-08-28T19:30:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
+      "status": "TIMED",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/94.png"
