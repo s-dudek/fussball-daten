@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:04:28.718907+00:00",
+  "updated_at": "2026-08-29T17:24:19.661566+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -85,8 +85,8 @@
       "home": "Levante",
       "away": "Real Betis",
       "date": "2026-08-29T15:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "5:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/88.png",
       "awayCrest": "https://crests.football-data.org/90.png"
@@ -95,7 +95,7 @@
       "home": "Tottenham",
       "away": "Newcastle",
       "date": "2026-08-29T16:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
@@ -105,7 +105,7 @@
       "home": "Real Sociedad",
       "away": "Espanyol",
       "date": "2026-08-29T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/92.png",
