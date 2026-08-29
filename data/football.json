@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T00:24:12.024029+00:00",
+  "updated_at": "2026-08-29T00:44:09.560577+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -25,8 +25,8 @@
       "home": "Santander",
       "away": "Elche",
       "date": "2026-08-28T17:00:00Z",
-      "status": "FINISHED",
-      "score": "3:2",
+      "status": "TIMED",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayCrest": "https://crests.football-data.org/285.png"
