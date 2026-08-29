@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T00:44:09.560577+00:00",
+  "updated_at": "2026-08-29T01:04:55.527735+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -45,8 +45,8 @@
       "home": "Alavés",
       "away": "Villarreal",
       "date": "2026-08-28T19:30:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
+      "status": "TIMED",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/94.png"
