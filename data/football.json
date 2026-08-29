@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:04:04.870730+00:00",
+  "updated_at": "2026-08-29T15:23:59.363700+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -65,7 +65,7 @@
       "home": "Bournemouth",
       "away": "Everton",
       "date": "2026-08-29T14:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/bournemouth.png",
@@ -75,7 +75,7 @@
       "home": "Coventry City",
       "away": "Hull City",
       "date": "2026-08-29T14:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/1076.png",
@@ -85,7 +85,7 @@
       "home": "Levante",
       "away": "Real Betis",
       "date": "2026-08-29T15:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/88.png",
