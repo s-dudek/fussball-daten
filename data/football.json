@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T18:23:51.881207+00:00",
+  "updated_at": "2026-08-29T18:43:49.866083+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -95,8 +95,8 @@
       "home": "Tottenham",
       "away": "Newcastle",
       "date": "2026-08-29T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
       "awayCrest": "https://crests.football-data.org/67.png"
