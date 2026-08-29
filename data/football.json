@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:43:49.414366+00:00",
+  "updated_at": "2026-08-29T21:04:00.839713+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -115,7 +115,7 @@
       "home": "Sevilla FC",
       "away": "Atleti",
       "date": "2026-08-29T19:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/559.png",
