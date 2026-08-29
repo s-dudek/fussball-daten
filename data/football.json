@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T18:43:49.866083+00:00",
+  "updated_at": "2026-08-29T19:04:02.723438+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -105,8 +105,8 @@
       "home": "Real Sociedad",
       "away": "Espanyol",
       "date": "2026-08-29T17:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/92.png",
       "awayCrest": "https://crests.football-data.org/80.png"
