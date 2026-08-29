@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:24:03.503272+00:00",
+  "updated_at": "2026-08-29T13:44:09.292682+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -55,8 +55,8 @@
       "home": "Liverpool",
       "away": "Nottingham",
       "date": "2026-08-29T11:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/64.png",
       "awayCrest": "https://crests.football-data.org/351.png"
