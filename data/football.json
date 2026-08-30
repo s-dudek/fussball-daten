@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:24:05.459364+00:00",
+  "updated_at": "2026-08-30T15:44:16.852663+00:00",
   "matches": [
     {
       "home": "Santander",
@@ -145,7 +145,7 @@
       "home": "Man United",
       "away": "Ipswich Town",
       "date": "2026-08-30T15:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/66.png",
