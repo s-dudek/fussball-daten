@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-08-29T23:43:49.013126+00:00",
+  "updated_at": "2026-08-30T00:05:01.790933+00:00",
   "matches": [
-    {
-      "home": "Celta",
-      "away": "Osasuna",
-      "date": "2026-08-27T18:30:00Z",
-      "status": "FINISHED",
-      "score": "1:2",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/558.png",
-      "awayCrest": "https://crests.football-data.org/79.png"
-    },
-    {
-      "home": "Barça",
-      "away": "Athletic",
-      "date": "2026-08-27T19:00:00Z",
-      "status": "FINISHED",
-      "score": "2:0",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/81.png",
-      "awayCrest": "https://crests.football-data.org/77.png"
-    },
     {
       "home": "Santander",
       "away": "Elche",
