@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-30T14:43:51.802364+00:00",
+  "updated_at": "2026-08-30T15:04:02.885713+00:00",
   "matches": [
     {
       "home": "Santander",
       "away": "Elche",
       "date": "2026-08-28T17:00:00Z",
-      "status": "FINISHED",
-      "score": "3:2",
+      "status": "IN_PLAY",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayCrest": "https://crests.football-data.org/285.png"
@@ -25,8 +25,8 @@
       "home": "Alavés",
       "away": "Villarreal",
       "date": "2026-08-28T19:30:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
+      "status": "TIMED",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/94.png"
@@ -65,7 +65,7 @@
       "home": "Levante",
       "away": "Real Betis",
       "date": "2026-08-29T15:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/88.png",
@@ -105,8 +105,8 @@
       "home": "Sunderland",
       "away": "Fulham",
       "date": "2026-08-30T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/71.png",
       "awayCrest": "https://crests.football-data.org/63.png"
@@ -115,8 +115,8 @@
       "home": "Chelsea",
       "away": "Brighton Hove",
       "date": "2026-08-30T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:3",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/61.png",
       "awayCrest": "https://crests.football-data.org/397.png"
@@ -125,8 +125,8 @@
       "home": "Leeds United",
       "away": "Brentford",
       "date": "2026-08-30T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/341.png",
       "awayCrest": "https://crests.football-data.org/402.png"
