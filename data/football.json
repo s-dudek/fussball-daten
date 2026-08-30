@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T17:24:03.559894+00:00",
+  "updated_at": "2026-08-30T17:43:52.372225+00:00",
   "matches": [
     {
       "home": "Santander",
@@ -145,8 +145,8 @@
       "home": "Man United",
       "away": "Ipswich Town",
       "date": "2026-08-30T15:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "5:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/66.png",
       "awayCrest": "https://crests.football-data.org/349.png"
@@ -155,7 +155,7 @@
       "home": "Deportivo",
       "away": "Valencia",
       "date": "2026-08-30T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
