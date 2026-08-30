@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:43:59.587362+00:00",
+  "updated_at": "2026-08-30T17:04:15.541045+00:00",
   "matches": [
     {
       "home": "Santander",
@@ -135,8 +135,8 @@
       "home": "Real Madrid",
       "away": "Málaga",
       "date": "2026-08-30T15:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayCrest": "https://crests.football-data.org/84.png"
