@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T19:23:57.801892+00:00",
+  "updated_at": "2026-08-30T19:44:04.289279+00:00",
   "matches": [
     {
       "home": "Santander",
@@ -155,8 +155,8 @@
       "home": "Deportivo",
       "away": "Valencia",
       "date": "2026-08-30T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
       "awayCrest": "https://crests.football-data.org/95.png"
@@ -165,7 +165,7 @@
       "home": "Celta",
       "away": "Athletic",
       "date": "2026-08-30T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/558.png",
