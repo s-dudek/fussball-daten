@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T18:23:56.989526+00:00",
+  "updated_at": "2026-08-30T18:43:50.990792+00:00",
   "matches": [
     {
       "home": "Santander",
@@ -15,8 +15,8 @@
       "home": "Crystal Palace",
       "away": "Man City",
       "date": "2026-08-28T19:00:00Z",
-      "status": "FINISHED",
-      "score": "1:4",
+      "status": "TIMED",
+      "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/354.png",
       "awayCrest": "https://crests.football-data.org/65.png"
@@ -75,7 +75,7 @@
       "home": "Tottenham",
       "away": "Newcastle",
       "date": "2026-08-29T16:30:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
