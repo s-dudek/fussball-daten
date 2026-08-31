@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:04:21.370021+00:00",
+  "updated_at": "2026-08-31T20:23:59.996869+00:00",
   "matches": [
     {
       "home": "Liverpool",
@@ -155,7 +155,7 @@
       "home": "Aston Villa",
       "away": "Arsenal",
       "date": "2026-08-31T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/58.png",
