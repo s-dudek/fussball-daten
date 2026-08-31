@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T21:24:20.385617+00:00",
+  "updated_at": "2026-08-31T21:43:58.223321+00:00",
   "matches": [
     {
       "home": "Liverpool",
@@ -165,8 +165,8 @@
       "home": "Barça",
       "away": "Rayo Vallecano",
       "date": "2026-08-31T19:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "5:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayCrest": "https://crests.football-data.org/87.png"
