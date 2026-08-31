@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:43:50.476165+00:00",
+  "updated_at": "2026-08-31T20:04:21.370021+00:00",
   "matches": [
     {
       "home": "Liverpool",
@@ -146,7 +146,7 @@
       "away": "Getafe",
       "date": "2026-08-31T17:30:00Z",
       "status": "FINISHED",
-      "score": "1:1",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
       "awayCrest": "https://crests.football-data.org/82.png"
@@ -155,7 +155,7 @@
       "home": "Aston Villa",
       "away": "Arsenal",
       "date": "2026-08-31T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/58.png",
