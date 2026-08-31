@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:23:59.894358+00:00",
+  "updated_at": "2026-08-31T19:43:50.476165+00:00",
   "matches": [
     {
       "home": "Liverpool",
@@ -145,8 +145,8 @@
       "home": "Osasuna",
       "away": "Getafe",
       "date": "2026-08-31T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
       "awayCrest": "https://crests.football-data.org/82.png"
@@ -165,7 +165,7 @@
       "home": "Barça",
       "away": "Rayo Vallecano",
       "date": "2026-08-31T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/81.png",
