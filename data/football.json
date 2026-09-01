@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T03:30:03.258245+00:00",
+  "updated_at": "2026-09-01T03:47:14.414196+00:00",
   "matches": [
     {
       "home": "Sunderland",
@@ -75,8 +75,8 @@
       "home": "Osasuna",
       "away": "Getafe",
       "date": "2026-08-31T17:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
       "awayCrest": "https://crests.football-data.org/82.png"
@@ -85,8 +85,8 @@
       "home": "Aston Villa",
       "away": "Arsenal",
       "date": "2026-08-31T19:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/58.png",
       "awayCrest": "https://crests.football-data.org/57.png"
@@ -95,8 +95,8 @@
       "home": "Barça",
       "away": "Rayo Vallecano",
       "date": "2026-08-31T19:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "5:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayCrest": "https://crests.football-data.org/87.png"
