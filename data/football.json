@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-04T07:07:19.560263+00:00",
+  "updated_at": "2026-09-04T07:29:07.641871+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
       "away": "Celta",
       "date": "2026-09-03T19:00:00Z",
-      "status": "FINISHED",
-      "score": "0:0",
+      "status": "2026-09-03 18:00:00Z",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/92.png",
       "awayCrest": "https://crests.football-data.org/558.png"
@@ -15,7 +15,7 @@
       "home": "Real Betis",
       "away": "Real Madrid",
       "date": "2026-09-04T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-04 18:00:00Z",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
