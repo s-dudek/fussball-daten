@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:46:31.787876+00:00",
+  "updated_at": "2026-09-04T19:06:16.654538+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -15,7 +15,7 @@
       "home": "Real Betis",
       "away": "Real Madrid",
       "date": "2026-09-04T19:00:00Z",
-      "status": "2026-09-04 18:00:00Z",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
@@ -25,7 +25,7 @@
       "home": "Ipswich Town",
       "away": "Liverpool",
       "date": "2026-09-04T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/349.png",
