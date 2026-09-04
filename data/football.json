@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:44:15.618354+00:00",
+  "updated_at": "2026-09-04T00:11:07.601148+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -190,6 +190,26 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/80.png",
       "awayCrest": "https://crests.football-data.org/559.png"
+    },
+    {
+      "home": "Getafe",
+      "away": "Celta",
+      "date": "2026-09-07T17:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/82.png",
+      "awayCrest": "https://crests.football-data.org/558.png"
+    },
+    {
+      "home": "Elche",
+      "away": "Real Sociedad",
+      "date": "2026-09-07T19:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/285.png",
+      "awayCrest": "https://crests.football-data.org/92.png"
     }
   ]
 }
