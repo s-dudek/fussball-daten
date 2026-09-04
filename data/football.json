@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:07:12.082745+00:00",
+  "updated_at": "2026-09-04T21:27:28.156177+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -15,8 +15,8 @@
       "home": "Real Betis",
       "away": "Real Madrid",
       "date": "2026-09-04T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
       "awayCrest": "https://crests.football-data.org/86.png"
