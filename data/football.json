@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:27:53.870805+00:00",
+  "updated_at": "2026-09-05T16:44:19.836193+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -105,7 +105,7 @@
       "home": "Rayo Vallecano",
       "away": "Santander",
       "date": "2026-09-05T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/87.png",
@@ -115,7 +115,7 @@
       "home": "Hull City",
       "away": "Aston Villa",
       "date": "2026-09-05T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/322.png",
