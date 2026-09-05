@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:43:52.256257+00:00",
+  "updated_at": "2026-09-05T12:08:40.653266+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -35,7 +35,7 @@
       "home": "Newcastle",
       "away": "Bournemouth",
       "date": "2026-09-05T11:30:00Z",
-      "status": "IN_PLAY",
+      "status": "TIMED",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/67.png",
