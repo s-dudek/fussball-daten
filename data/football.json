@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:44:17.431262+00:00",
+  "updated_at": "2026-09-05T21:06:41.284263+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -125,8 +125,8 @@
       "home": "Villarreal",
       "away": "Deportivo",
       "date": "2026-09-05T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:3",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/94.png",
       "awayCrest": "https://crests.football-data.org/560.png"
