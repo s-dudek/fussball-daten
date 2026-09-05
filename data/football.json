@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:29:13.638424+00:00",
+  "updated_at": "2026-09-05T18:47:11.570639+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -105,8 +105,8 @@
       "home": "Rayo Vallecano",
       "away": "Santander",
       "date": "2026-09-05T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/87.png",
       "awayCrest": "https://crests.football-data.org/5335.png"
