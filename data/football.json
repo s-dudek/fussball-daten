@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:27:03.895760+00:00",
+  "updated_at": "2026-09-05T15:44:29.008640+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -95,7 +95,7 @@
       "home": "Athletic",
       "away": "Atleti",
       "date": "2026-09-05T14:15:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/77.png",
