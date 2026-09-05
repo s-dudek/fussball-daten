@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:07:13.823861+00:00",
+  "updated_at": "2026-09-05T16:27:53.870805+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -46,7 +46,7 @@
       "away": "Tottenham",
       "date": "2026-09-05T14:00:00Z",
       "status": "FINISHED",
-      "score": "1:0",
+      "score": "0:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/351.png",
       "awayCrest": "https://crests.football-data.org/73.png"
@@ -75,8 +75,8 @@
       "home": "Brentford",
       "away": "Sunderland",
       "date": "2026-09-05T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/402.png",
       "awayCrest": "https://crests.football-data.org/71.png"
@@ -95,8 +95,8 @@
       "home": "Athletic",
       "away": "Atleti",
       "date": "2026-09-05T14:15:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/77.png",
       "awayCrest": "https://crests.football-data.org/78.png"
