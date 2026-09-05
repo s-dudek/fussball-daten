@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:07:54.228941+00:00",
+  "updated_at": "2026-09-05T18:29:13.638424+00:00",
   "matches": [
     {
       "home": "Real Sociedad",
@@ -115,8 +115,8 @@
       "home": "Hull City",
       "away": "Aston Villa",
       "date": "2026-09-05T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/322.png",
       "awayCrest": "https://crests.football-data.org/58.png"
