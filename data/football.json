@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:28:36.080876+00:00",
+  "updated_at": "2026-09-06T16:44:42.881257+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -155,7 +155,7 @@
       "home": "Alavés",
       "away": "Osasuna",
       "date": "2026-09-06T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
@@ -165,7 +165,7 @@
       "home": "Málaga",
       "away": "Levante",
       "date": "2026-09-06T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/84.png",
