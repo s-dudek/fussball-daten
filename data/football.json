@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T15:27:35.326812+00:00",
+  "updated_at": "2026-09-06T15:44:35.092236+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -135,7 +135,7 @@
       "home": "Valencia",
       "away": "Barça",
       "date": "2026-09-06T14:15:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
@@ -145,7 +145,7 @@
       "home": "Arsenal",
       "away": "Chelsea",
       "date": "2026-09-06T15:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/57.png",
