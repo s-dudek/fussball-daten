@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:48:39.169001+00:00",
+  "updated_at": "2026-09-06T13:07:10.495135+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -125,7 +125,7 @@
       "home": "Everton",
       "away": "Man United",
       "date": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/62.png",
