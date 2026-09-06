@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:06:40.663218+00:00",
+  "updated_at": "2026-09-06T21:26:32.478945+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -175,8 +175,8 @@
       "home": "Espanyol",
       "away": "Sevilla FC",
       "date": "2026-09-06T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/80.png",
       "awayCrest": "https://crests.football-data.org/559.png"
