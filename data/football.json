@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:07:51.741420+00:00",
+  "updated_at": "2026-09-06T16:28:36.080876+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -135,8 +135,8 @@
       "home": "Valencia",
       "away": "Barça",
       "date": "2026-09-06T14:15:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:5",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/81.png"
