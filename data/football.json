@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:27:31.588604+00:00",
+  "updated_at": "2026-09-07T19:45:21.409253+00:00",
   "matches": [
     {
       "home": "Newcastle",
@@ -175,7 +175,7 @@
       "home": "Elche",
       "away": "Real Sociedad",
       "date": "2026-09-07T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/285.png",
