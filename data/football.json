@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:50:35.757245+00:00",
+  "updated_at": "2026-09-08T19:07:03.217307+00:00",
   "matches": [
     {
       "home": "Everton",
@@ -96,7 +96,7 @@
       "away": "LASK",
       "date": "2026-09-08T16:45:00Z",
       "status": "FINISHED",
-      "score": "2:0",
+      "score": "1:0",
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/1899.png",
       "awayCrest": "https://crests.football-data.org/2016.png"
@@ -105,7 +105,7 @@
       "home": "Real Madrid",
       "away": "Inter",
       "date": "2026-09-08T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/86.png",
@@ -115,7 +115,7 @@
       "home": "Porto",
       "away": "Man City",
       "date": "2026-09-08T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/503.png",
@@ -125,7 +125,7 @@
       "home": "Dortmund",
       "away": "Villarreal",
       "date": "2026-09-08T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/4.png",
@@ -135,7 +135,7 @@
       "home": "Lille",
       "away": "Real Betis",
       "date": "2026-09-08T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/521.png",
