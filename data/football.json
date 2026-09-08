@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:34:02.196009+00:00",
+  "updated_at": "2026-09-08T18:50:35.757245+00:00",
   "matches": [
     {
       "home": "Everton",
@@ -85,8 +85,8 @@
       "home": "Club Brugge",
       "away": "Aston Villa",
       "date": "2026-09-08T16:45:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:3",
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/851.png",
       "awayCrest": "https://crests.football-data.org/58.png"
@@ -95,8 +95,8 @@
       "home": "PAE AEK",
       "away": "LASK",
       "date": "2026-09-08T16:45:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/1899.png",
       "awayCrest": "https://crests.football-data.org/2016.png"
