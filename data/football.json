@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:48:52.675567+00:00",
+  "updated_at": "2026-09-09T19:06:48.942305+00:00",
   "matches": [
     {
       "home": "Getafe",
@@ -105,7 +105,7 @@
       "home": "Liverpool",
       "away": "Atleti",
       "date": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/64.png",
@@ -115,7 +115,7 @@
       "home": "PSG",
       "away": "Sl. Bratislava",
       "date": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/524.png",
@@ -125,7 +125,7 @@
       "home": "Napoli",
       "away": "Arsenal",
       "date": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/113.png",
@@ -135,7 +135,7 @@
       "home": "Sporting CP",
       "away": "Galatasaray",
       "date": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/498.png",
