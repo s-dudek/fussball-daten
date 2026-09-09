@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:48:42.013278+00:00",
+  "updated_at": "2026-09-09T17:06:58.051656+00:00",
   "matches": [
     {
       "home": "Getafe",
@@ -85,7 +85,7 @@
       "home": "Barça",
       "away": "Feyenoord",
       "date": "2026-09-09T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/81.png",
@@ -95,7 +95,7 @@
       "home": "Stuttgart",
       "away": "Viking",
       "date": "2026-09-09T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/10.png",
