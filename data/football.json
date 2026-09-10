@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:07:19.996789+00:00",
+  "updated_at": "2026-09-10T20:27:56.731323+00:00",
   "matches": [
     {
       "home": "Club Brugge",
@@ -145,7 +145,7 @@
       "home": "Bayern",
       "away": "Bodø/Glimt",
       "date": "2026-09-10T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/5.png",
@@ -155,7 +155,7 @@
       "home": "Man United",
       "away": "Sabah FK",
       "date": "2026-09-10T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/66.png",
@@ -165,7 +165,7 @@
       "home": "Como 1907",
       "away": "RB Leipzig",
       "date": "2026-09-10T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/7397.png",
@@ -175,7 +175,7 @@
       "home": "Slavia Praha",
       "away": "RC Lens",
       "date": "2026-09-10T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/930.png",
