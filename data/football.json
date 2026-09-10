@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:47:02.123778+00:00",
+  "updated_at": "2026-09-10T17:07:10.341194+00:00",
   "matches": [
     {
       "home": "Club Brugge",
@@ -125,7 +125,7 @@
       "home": "Fenerbahçe",
       "away": "Roma",
       "date": "2026-09-10T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/613.png",
@@ -135,7 +135,7 @@
       "home": "PSV",
       "away": "Shaktar",
       "date": "2026-09-10T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/674.png",
