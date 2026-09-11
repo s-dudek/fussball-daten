@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:47:33.095906+00:00",
+  "updated_at": "2026-09-11T19:07:27.486752+00:00",
   "matches": [
     {
       "home": "Barça",
@@ -125,7 +125,7 @@
       "home": "Sevilla FC",
       "away": "Valencia",
       "date": "2026-09-11T19:00:00Z",
-      "status": "2026-09-11 18:00:00Z",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/559.png",
