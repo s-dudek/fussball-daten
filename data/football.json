@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:06:37.347109+00:00",
+  "updated_at": "2026-09-12T14:28:43.912941+00:00",
   "matches": [
     {
       "home": "Fenerbahçe",
@@ -135,7 +135,7 @@
       "home": "Osasuna",
       "away": "Espanyol",
       "date": "2026-09-12T14:15:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
