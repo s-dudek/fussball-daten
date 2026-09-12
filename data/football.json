@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:26:34.645522+00:00",
+  "updated_at": "2026-09-12T17:43:57.556438+00:00",
   "matches": [
     {
       "home": "Fenerbahçe",
@@ -155,7 +155,7 @@
       "home": "Tottenham",
       "away": "Everton",
       "date": "2026-09-12T16:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
