@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:07:00.115941+00:00",
+  "updated_at": "2026-09-12T20:30:15.619886+00:00",
   "matches": [
     {
       "home": "Fenerbahçe",
@@ -165,7 +165,7 @@
       "home": "Real Madrid",
       "away": "Rayo Vallecano",
       "date": "2026-09-12T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/86.png",
