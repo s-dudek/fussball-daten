@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:45:35.564547+00:00",
+  "updated_at": "2026-09-12T19:06:20.026719+00:00",
   "matches": [
     {
       "home": "Fenerbahçe",
@@ -165,7 +165,7 @@
       "home": "Real Madrid",
       "away": "Rayo Vallecano",
       "date": "2026-09-12T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/86.png",
@@ -175,7 +175,7 @@
       "home": "Sunderland",
       "away": "Arsenal",
       "date": "2026-09-12T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/71.png",
