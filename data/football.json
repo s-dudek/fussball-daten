@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:29:46.513376+00:00",
+  "updated_at": "2026-09-12T18:45:35.564547+00:00",
   "matches": [
     {
       "home": "Fenerbahçe",
@@ -145,8 +145,8 @@
       "home": "Athletic",
       "away": "Elche",
       "date": "2026-09-12T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/77.png",
       "awayCrest": "https://crests.football-data.org/285.png"
