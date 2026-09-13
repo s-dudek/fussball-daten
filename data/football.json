@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:31:01.430331+00:00",
+  "updated_at": "2026-09-13T18:47:56.155075+00:00",
   "matches": [
     {
       "home": "Sevilla FC",
@@ -165,8 +165,8 @@
       "home": "Getafe",
       "away": "Deportivo",
       "date": "2026-09-13T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/82.png",
       "awayCrest": "https://crests.football-data.org/560.png"
