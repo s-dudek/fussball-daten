@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:45:18.995715+00:00",
+  "updated_at": "2026-09-13T15:07:22.210967+00:00",
   "matches": [
     {
       "home": "Sevilla FC",
@@ -135,8 +135,8 @@
       "home": "Coventry City",
       "away": "Brighton Hove",
       "date": "2026-09-13T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:5",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/1076.png",
       "awayCrest": "https://crests.football-data.org/397.png"
