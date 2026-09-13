@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:28:46.459336+00:00",
+  "updated_at": "2026-09-13T16:46:10.537780+00:00",
   "matches": [
     {
       "home": "Sevilla FC",
@@ -155,7 +155,7 @@
       "home": "Man United",
       "away": "Man City",
       "date": "2026-09-13T15:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/66.png",
@@ -165,7 +165,7 @@
       "home": "Getafe",
       "away": "Deportivo",
       "date": "2026-09-13T16:30:00Z",
-      "status": "2026-09-13 16:30:00Z",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/82.png",
