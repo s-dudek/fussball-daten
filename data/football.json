@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T20:08:23.781980+00:00",
+  "updated_at": "2026-09-14T20:29:28.025157+00:00",
   "matches": [
     {
       "home": "Santander",
@@ -185,7 +185,7 @@
       "home": "Leeds United",
       "away": "Newcastle",
       "date": "2026-09-14T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/341.png",
