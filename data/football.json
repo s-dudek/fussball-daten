@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T19:27:55.807454+00:00",
+  "updated_at": "2026-09-15T19:46:40.227809+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -105,7 +105,7 @@
       "home": "Elche",
       "away": "Real Madrid",
       "date": "2026-09-15T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/285.png",
