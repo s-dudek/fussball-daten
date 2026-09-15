@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T19:46:40.227809+00:00",
+  "updated_at": "2026-09-15T20:08:21.957899+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -95,8 +95,8 @@
       "home": "Alavés",
       "away": "Valencia",
       "date": "2026-09-15T18:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/95.png"
