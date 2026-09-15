@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T18:49:38.436941+00:00",
+  "updated_at": "2026-09-15T19:06:55.201773+00:00",
   "matches": [
     {
       "home": "Celta",
@@ -85,8 +85,8 @@
       "home": "Rayo Vallecano",
       "away": "Espanyol",
       "date": "2026-09-15T17:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/87.png",
       "awayCrest": "https://crests.football-data.org/80.png"
