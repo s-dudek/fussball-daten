@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:32:54.768461+00:00",
+  "updated_at": "2026-09-16T21:40:34.546551+00:00",
   "matches": [
     {
       "home": "Villarreal",
@@ -55,8 +55,8 @@
       "home": "Deportivo",
       "away": "Sevilla FC",
       "date": "2026-09-16T17:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
       "awayCrest": "https://crests.football-data.org/559.png"
@@ -65,8 +65,8 @@
       "home": "Atleti",
       "away": "Osasuna",
       "date": "2026-09-16T17:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/78.png",
       "awayCrest": "https://crests.football-data.org/79.png"
@@ -75,7 +75,7 @@
       "home": "Levante",
       "away": "Athletic",
       "date": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/88.png",
@@ -85,8 +85,8 @@
       "home": "Barça",
       "away": "Santander",
       "date": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "7:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayCrest": "https://crests.football-data.org/5335.png"
