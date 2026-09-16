@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:48:21.432177+00:00",
+  "updated_at": "2026-09-16T17:06:59.688044+00:00",
   "matches": [
     {
       "home": "Villarreal",
@@ -55,7 +55,7 @@
       "home": "Deportivo",
       "away": "Sevilla FC",
       "date": "2026-09-16T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
@@ -65,7 +65,7 @@
       "home": "Atleti",
       "away": "Osasuna",
       "date": "2026-09-16T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/78.png",
