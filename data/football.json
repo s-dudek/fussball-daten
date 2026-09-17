@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T00:01:37.248198+00:00",
+  "updated_at": "2026-09-17T04:57:31.207315+00:00",
   "matches": [
     {
       "home": "Rayo Vallecano",
@@ -32,6 +32,16 @@
       "awayCrest": "https://crests.football-data.org/86.png"
     },
     {
+      "home": "Levante",
+      "away": "Athletic",
+      "date": "2026-09-16T00:00:00Z",
+      "status": "POSTPONED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/88.png",
+      "awayCrest": "https://crests.football-data.org/77.png"
+    },
+    {
       "home": "Deportivo",
       "away": "Sevilla FC",
       "date": "2026-09-16T17:00:00Z",
@@ -50,16 +60,6 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/78.png",
       "awayCrest": "https://crests.football-data.org/79.png"
-    },
-    {
-      "home": "Levante",
-      "away": "Athletic",
-      "date": "2026-09-16T19:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/88.png",
-      "awayCrest": "https://crests.football-data.org/77.png"
     },
     {
       "home": "Barça",
