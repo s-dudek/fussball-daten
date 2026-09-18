@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:42:51.201680+00:00",
+  "updated_at": "2026-09-18T19:24:21.526662+00:00",
   "matches": [
     {
       "home": "Deportivo",
@@ -55,7 +55,7 @@
       "home": "Espanyol",
       "away": "Elche",
       "date": "2026-09-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/80.png",
@@ -65,7 +65,7 @@
       "home": "Brentford",
       "away": "Chelsea",
       "date": "2026-09-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/402.png",
