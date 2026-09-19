@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T07:45:25.504351+00:00",
+  "updated_at": "2026-09-19T12:13:38.797603+00:00",
   "matches": [
     {
       "home": "Real Betis",
@@ -45,7 +45,7 @@
       "home": "Tottenham",
       "away": "Aston Villa",
       "date": "2026-09-19T11:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
@@ -55,7 +55,7 @@
       "home": "Osasuna",
       "away": "Rayo Vallecano",
       "date": "2026-09-19T12:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
