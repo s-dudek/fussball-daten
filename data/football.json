@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-18T23:49:51.621288+00:00",
+  "updated_at": "2026-09-19T02:51:55.154824+00:00",
   "matches": [
-    {
-      "home": "Deportivo",
-      "away": "Sevilla FC",
-      "date": "2026-09-16T17:00:00Z",
-      "status": "FINISHED",
-      "score": "0:1",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/560.png",
-      "awayCrest": "https://crests.football-data.org/559.png"
-    },
-    {
-      "home": "Atleti",
-      "away": "Osasuna",
-      "date": "2026-09-16T17:00:00Z",
-      "status": "FINISHED",
-      "score": "4:0",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/78.png",
-      "awayCrest": "https://crests.football-data.org/79.png"
-    },
-    {
-      "home": "Barça",
-      "away": "Santander",
-      "date": "2026-09-16T19:30:00Z",
-      "status": "FINISHED",
-      "score": "7:2",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/81.png",
-      "awayCrest": "https://crests.football-data.org/5335.png"
-    },
     {
       "home": "Real Betis",
       "away": "Getafe",
