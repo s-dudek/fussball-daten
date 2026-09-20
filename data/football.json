@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T14:15:26.449498+00:00",
+  "updated_at": "2026-09-20T17:30:07.244943+00:00",
   "matches": [
     {
       "home": "Espanyol",
@@ -125,8 +125,8 @@
       "home": "Bournemouth",
       "away": "Liverpool",
       "date": "2026-09-20T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/bournemouth.png",
       "awayCrest": "https://crests.football-data.org/64.png"
@@ -135,8 +135,8 @@
       "home": "Leeds United",
       "away": "Crystal Palace",
       "date": "2026-09-20T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/341.png",
       "awayCrest": "https://crests.football-data.org/354.png"
@@ -145,8 +145,8 @@
       "home": "Man City",
       "away": "Sunderland",
       "date": "2026-09-20T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "5:3",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/65.png",
       "awayCrest": "https://crests.football-data.org/71.png"
@@ -155,8 +155,8 @@
       "home": "Atleti",
       "away": "Real Madrid",
       "date": "2026-09-20T14:15:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/78.png",
       "awayCrest": "https://crests.football-data.org/86.png"
@@ -165,8 +165,8 @@
       "home": "Fulham",
       "away": "Man United",
       "date": "2026-09-20T15:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/63.png",
       "awayCrest": "https://crests.football-data.org/66.png"
@@ -175,7 +175,7 @@
       "home": "Deportivo",
       "away": "Real Betis",
       "date": "2026-09-20T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
@@ -185,7 +185,7 @@
       "home": "Villarreal",
       "away": "Levante",
       "date": "2026-09-20T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/94.png",
