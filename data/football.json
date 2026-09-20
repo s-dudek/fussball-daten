@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T19:42:03.854002+00:00",
+  "updated_at": "2026-09-20T22:08:17.826943+00:00",
   "matches": [
     {
       "home": "Espanyol",
@@ -195,8 +195,8 @@
       "home": "Valencia",
       "away": "Real Sociedad",
       "date": "2026-09-20T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:3",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/92.png"
