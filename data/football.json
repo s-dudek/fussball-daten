@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:04:20.217611+00:00",
+  "updated_at": "2026-09-20T14:15:26.449498+00:00",
   "matches": [
     {
       "home": "Espanyol",
@@ -115,8 +115,8 @@
       "home": "Getafe",
       "away": "Málaga",
       "date": "2026-09-20T12:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/82.png",
       "awayCrest": "https://crests.football-data.org/84.png"
@@ -125,7 +125,7 @@
       "home": "Bournemouth",
       "away": "Liverpool",
       "date": "2026-09-20T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/bournemouth.png",
@@ -135,7 +135,7 @@
       "home": "Leeds United",
       "away": "Crystal Palace",
       "date": "2026-09-20T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/341.png",
@@ -145,7 +145,7 @@
       "home": "Man City",
       "away": "Sunderland",
       "date": "2026-09-20T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/65.png",
