@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:30:07.244943+00:00",
+  "updated_at": "2026-09-20T19:42:03.854002+00:00",
   "matches": [
     {
       "home": "Espanyol",
@@ -175,8 +175,8 @@
       "home": "Deportivo",
       "away": "Real Betis",
       "date": "2026-09-20T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
       "awayCrest": "https://crests.football-data.org/90.png"
@@ -185,8 +185,8 @@
       "home": "Villarreal",
       "away": "Levante",
       "date": "2026-09-20T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/94.png",
       "awayCrest": "https://crests.football-data.org/88.png"
@@ -195,7 +195,7 @@
       "home": "Valencia",
       "away": "Real Sociedad",
       "date": "2026-09-20T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
