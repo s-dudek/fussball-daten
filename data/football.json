@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:08:20.647940+00:00",
+  "updated_at": "2026-10-09T02:57:23.094057+00:00",
   "matches": [
     {
       "home": "Málaga",
@@ -180,6 +180,26 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayCrest": "https://crests.football-data.org/95.png"
+    },
+    {
+      "home": "Levante",
+      "away": "Sevilla FC",
+      "date": "2026-10-12T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/88.png",
+      "awayCrest": "https://crests.football-data.org/559.png"
+    },
+    {
+      "home": "Coventry City",
+      "away": "Newcastle",
+      "date": "2026-10-12T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/1076.png",
+      "awayCrest": "https://crests.football-data.org/67.png"
     }
   ]
 }
