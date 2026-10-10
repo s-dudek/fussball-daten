@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T18:40:21.217834+00:00",
+  "updated_at": "2026-10-10T22:11:15.954511+00:00",
   "matches": [
     {
       "home": "Málaga",
@@ -105,8 +105,8 @@
       "home": "Real Madrid",
       "away": "Villarreal",
       "date": "2026-10-10T19:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayCrest": "https://crests.football-data.org/94.png"
