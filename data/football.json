@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T14:10:02.860403+00:00",
+  "updated_at": "2026-10-10T18:40:21.217834+00:00",
   "matches": [
     {
       "home": "Málaga",
@@ -25,7 +25,7 @@
       "home": "Rayo Vallecano",
       "away": "Athletic",
       "date": "2026-10-10T12:00:00Z",
-      "status": "IN_PLAY",
+      "status": "CANCELLED",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/87.png",
@@ -35,8 +35,8 @@
       "home": "Sunderland",
       "away": "Brighton Hove",
       "date": "2026-10-10T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/71.png",
       "awayCrest": "https://crests.football-data.org/397.png"
@@ -45,8 +45,8 @@
       "home": "Chelsea",
       "away": "Bournemouth",
       "date": "2026-10-10T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "5:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/61.png",
       "awayCrest": "https://crests.football-data.org/bournemouth.png"
@@ -55,8 +55,8 @@
       "home": "Ipswich Town",
       "away": "Fulham",
       "date": "2026-10-10T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/349.png",
       "awayCrest": "https://crests.football-data.org/63.png"
@@ -65,8 +65,8 @@
       "home": "Aston Villa",
       "away": "Brentford",
       "date": "2026-10-10T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/58.png",
       "awayCrest": "https://crests.football-data.org/402.png"
@@ -75,8 +75,8 @@
       "home": "Alavés",
       "away": "Atleti",
       "date": "2026-10-10T14:15:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/78.png"
@@ -85,8 +85,8 @@
       "home": "Barça",
       "away": "Getafe",
       "date": "2026-10-10T16:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayCrest": "https://crests.football-data.org/82.png"
@@ -95,8 +95,8 @@
       "home": "Man United",
       "away": "Tottenham",
       "date": "2026-10-10T16:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/66.png",
       "awayCrest": "https://crests.football-data.org/73.png"
