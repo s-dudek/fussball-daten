@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:57:54.680362+00:00",
+  "updated_at": "2026-10-11T22:43:23.140438+00:00",
   "matches": [
     {
       "home": "Málaga",
@@ -175,8 +175,8 @@
       "home": "Santander",
       "away": "Valencia",
       "date": "2026-10-11T19:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayCrest": "https://crests.football-data.org/95.png"
