@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T02:00:52.119041+00:00",
+  "updated_at": "2026-10-12T09:18:57.009065+00:00",
   "matches": [
     {
       "home": "Arsenal",
@@ -115,8 +115,8 @@
       "home": "Hull City",
       "away": "Everton",
       "date": "2026-10-11T13:00:00Z",
-      "status": "FINISHED",
-      "score": "2:2",
+      "status": "TIMED",
+      "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/322.png",
       "awayCrest": "https://crests.football-data.org/62.png"
@@ -125,8 +125,8 @@
       "home": "Crystal Palace",
       "away": "Nottingham",
       "date": "2026-10-11T13:00:00Z",
-      "status": "FINISHED",
-      "score": "3:1",
+      "status": "TIMED",
+      "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/354.png",
       "awayCrest": "https://crests.football-data.org/351.png"
@@ -145,8 +145,8 @@
       "home": "Liverpool",
       "away": "Man City",
       "date": "2026-10-11T15:30:00Z",
-      "status": "FINISHED",
-      "score": "0:3",
+      "status": "TIMED",
+      "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/64.png",
       "awayCrest": "https://crests.football-data.org/65.png"
