@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-14T22:36:59.743147+00:00",
+  "updated_at": "2026-10-15T00:49:57.545949+00:00",
   "matches": [
-    {
-      "home": "Levante",
-      "away": "Sevilla FC",
-      "date": "2026-10-12T19:00:00Z",
-      "status": "FINISHED",
-      "score": "3:3",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/88.png",
-      "awayCrest": "https://crests.football-data.org/559.png"
-    },
-    {
-      "home": "Coventry City",
-      "away": "Newcastle",
-      "date": "2026-10-12T19:00:00Z",
-      "status": "FINISHED",
-      "score": "4:1",
-      "competition": "Premier League",
-      "homeCrest": "https://crests.football-data.org/1076.png",
-      "awayCrest": "https://crests.football-data.org/67.png"
-    },
     {
       "home": "RC Lens",
       "away": "Sporting CP",
@@ -300,6 +280,86 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/77.png"
+    },
+    {
+      "home": "Osasuna",
+      "away": "Santander",
+      "date": "2026-10-18T12:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/79.png",
+      "awayCrest": "https://crests.football-data.org/5335.png"
+    },
+    {
+      "home": "Bournemouth",
+      "away": "Sunderland",
+      "date": "2026-10-18T13:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/bournemouth.png",
+      "awayCrest": "https://crests.football-data.org/71.png"
+    },
+    {
+      "home": "Leeds United",
+      "away": "Man United",
+      "date": "2026-10-18T13:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/341.png",
+      "awayCrest": "https://crests.football-data.org/66.png"
+    },
+    {
+      "home": "Brighton Hove",
+      "away": "Crystal Palace",
+      "date": "2026-10-18T13:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/397.png",
+      "awayCrest": "https://crests.football-data.org/354.png"
+    },
+    {
+      "home": "Celta",
+      "away": "Alavés",
+      "date": "2026-10-18T14:15:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/558.png",
+      "awayCrest": "https://crests.football-data.org/263.png"
+    },
+    {
+      "home": "Nottingham",
+      "away": "Arsenal",
+      "date": "2026-10-18T15:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/351.png",
+      "awayCrest": "https://crests.football-data.org/57.png"
+    },
+    {
+      "home": "Málaga",
+      "away": "Real Sociedad",
+      "date": "2026-10-18T16:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/84.png",
+      "awayCrest": "https://crests.football-data.org/92.png"
+    },
+    {
+      "home": "Real Madrid",
+      "away": "Sevilla FC",
+      "date": "2026-10-18T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/86.png",
+      "awayCrest": "https://crests.football-data.org/559.png"
     }
   ]
 }
