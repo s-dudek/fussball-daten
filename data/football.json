@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T18:34:57.770387+00:00",
+  "updated_at": "2026-10-16T21:39:26.938518+00:00",
   "matches": [
     {
       "home": "LASK",
@@ -95,8 +95,8 @@
       "home": "Deportivo",
       "away": "Levante",
       "date": "2026-10-16T19:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
       "awayCrest": "https://crests.football-data.org/88.png"
