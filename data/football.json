@@ -1,96 +1,6 @@
 {
-  "updated_at": "2026-10-16T23:52:15.949783+00:00",
+  "updated_at": "2026-10-17T02:44:13.618729+00:00",
   "matches": [
-    {
-      "home": "LASK",
-      "away": "Liverpool",
-      "date": "2026-10-14T16:45:00Z",
-      "status": "FINISHED",
-      "score": "3:6",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/2016.png",
-      "awayCrest": "https://crests.football-data.org/64.png"
-    },
-    {
-      "home": "Feyenoord",
-      "away": "Como 1907",
-      "date": "2026-10-14T16:45:00Z",
-      "status": "FINISHED",
-      "score": "3:2",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/675.png",
-      "awayCrest": "https://crests.football-data.org/7397.png"
-    },
-    {
-      "home": "Roma",
-      "away": "Real Madrid",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "3:4",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/100.png",
-      "awayCrest": "https://crests.football-data.org/86.png"
-    },
-    {
-      "home": "Man City",
-      "away": "PSG",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "2:4",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/65.png",
-      "awayCrest": "https://crests.football-data.org/524.png"
-    },
-    {
-      "home": "Bodø/Glimt",
-      "away": "Dortmund",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/5721.png",
-      "awayCrest": "https://crests.football-data.org/4.png"
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Fenerbahçe",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "6:0",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/58.png",
-      "awayCrest": "https://crests.football-data.org/613.png"
-    },
-    {
-      "home": "Real Betis",
-      "away": "Porto",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "3:2",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/90.png",
-      "awayCrest": "https://crests.football-data.org/503.png"
-    },
-    {
-      "home": "Shaktar",
-      "away": "PAE AEK",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "3:1",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/1887.png",
-      "awayCrest": "https://crests.football-data.org/1899.png"
-    },
-    {
-      "home": "Sl. Bratislava",
-      "away": "Stuttgart",
-      "date": "2026-10-14T19:00:00Z",
-      "status": "FINISHED",
-      "score": "0:3",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/7509.png",
-      "awayCrest": "https://crests.football-data.org/10.png"
-    },
     {
       "home": "Deportivo",
       "away": "Levante",
@@ -290,6 +200,96 @@
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
       "awayCrest": "https://crests.football-data.org/1076.png"
+    },
+    {
+      "home": "Sabah FK",
+      "away": "Dortmund",
+      "date": "2026-10-20T16:45:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/10233.png",
+      "awayCrest": "https://crests.football-data.org/4.png"
+    },
+    {
+      "home": "Fenerbahçe",
+      "away": "Slavia Praha",
+      "date": "2026-10-20T16:45:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/613.png",
+      "awayCrest": "https://crests.football-data.org/930.png"
+    },
+    {
+      "home": "Man City",
+      "away": "PAE AEK",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/65.png",
+      "awayCrest": "https://crests.football-data.org/1899.png"
+    },
+    {
+      "home": "Stuttgart",
+      "away": "Atleti",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/10.png",
+      "awayCrest": "https://crests.football-data.org/78.png"
+    },
+    {
+      "home": "Liverpool",
+      "away": "Villarreal",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/64.png",
+      "awayCrest": "https://crests.football-data.org/94.png"
+    },
+    {
+      "home": "Roma",
+      "away": "Sl. Bratislava",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/100.png",
+      "awayCrest": "https://crests.football-data.org/7509.png"
+    },
+    {
+      "home": "Porto",
+      "away": "PSV",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/503.png",
+      "awayCrest": "https://crests.football-data.org/674.png"
+    },
+    {
+      "home": "Napoli",
+      "away": "Bodø/Glimt",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/113.png",
+      "awayCrest": "https://crests.football-data.org/5721.png"
+    },
+    {
+      "home": "PSG",
+      "away": "Barça",
+      "date": "2026-10-20T19:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "UEFA Champions League",
+      "homeCrest": "https://crests.football-data.org/524.png",
+      "awayCrest": "https://crests.football-data.org/81.png"
     }
   ]
 }
