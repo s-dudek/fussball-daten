@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:51:35.193946+00:00",
+  "updated_at": "2026-10-17T17:42:55.964820+00:00",
   "matches": [
     {
       "home": "Deportivo",
@@ -35,8 +35,8 @@
       "home": "Fulham",
       "away": "Hull City",
       "date": "2026-10-17T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/63.png",
       "awayCrest": "https://crests.football-data.org/322.png"
@@ -45,8 +45,8 @@
       "home": "Man City",
       "away": "Ipswich Town",
       "date": "2026-10-17T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/65.png",
       "awayCrest": "https://crests.football-data.org/349.png"
@@ -55,8 +55,8 @@
       "home": "Brentford",
       "away": "Liverpool",
       "date": "2026-10-17T14:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/402.png",
       "awayCrest": "https://crests.football-data.org/64.png"
@@ -65,8 +65,8 @@
       "home": "Villarreal",
       "away": "Elche",
       "date": "2026-10-17T14:15:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/94.png",
       "awayCrest": "https://crests.football-data.org/285.png"
@@ -75,7 +75,7 @@
       "home": "Real Betis",
       "away": "Barça",
       "date": "2026-10-17T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
@@ -85,7 +85,7 @@
       "home": "Newcastle",
       "away": "Aston Villa",
       "date": "2026-10-17T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/67.png",
