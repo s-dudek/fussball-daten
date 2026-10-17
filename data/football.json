@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:42:55.964820+00:00",
+  "updated_at": "2026-10-17T20:00:16.446414+00:00",
   "matches": [
     {
       "home": "Deportivo",
@@ -75,8 +75,8 @@
       "home": "Real Betis",
       "away": "Barça",
       "date": "2026-10-17T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:5",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
       "awayCrest": "https://crests.football-data.org/81.png"
@@ -85,8 +85,8 @@
       "home": "Newcastle",
       "away": "Aston Villa",
       "date": "2026-10-17T16:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/67.png",
       "awayCrest": "https://crests.football-data.org/58.png"
@@ -95,7 +95,7 @@
       "home": "Valencia",
       "away": "Athletic",
       "date": "2026-10-17T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
