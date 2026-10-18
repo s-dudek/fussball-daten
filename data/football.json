@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:17:39.791912+00:00",
+  "updated_at": "2026-10-18T13:21:52.025208+00:00",
   "matches": [
     {
       "home": "Deportivo",
@@ -105,7 +105,7 @@
       "home": "Osasuna",
       "away": "Santander",
       "date": "2026-10-18T12:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
@@ -115,7 +115,7 @@
       "home": "Bournemouth",
       "away": "Sunderland",
       "date": "2026-10-18T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/bournemouth.png",
@@ -125,7 +125,7 @@
       "home": "Leeds United",
       "away": "Man United",
       "date": "2026-10-18T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/341.png",
@@ -135,7 +135,7 @@
       "home": "Brighton Hove",
       "away": "Crystal Palace",
       "date": "2026-10-18T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/397.png",
