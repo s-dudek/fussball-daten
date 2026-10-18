@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:11:59.670618+00:00",
+  "updated_at": "2026-10-18T21:32:41.887953+00:00",
   "matches": [
     {
       "home": "Deportivo",
@@ -155,8 +155,8 @@
       "home": "Nottingham",
       "away": "Arsenal",
       "date": "2026-10-18T15:30:00Z",
-      "status": "FINISHED",
-      "score": "0:1",
+      "status": "IN_PLAY",
+      "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/351.png",
       "awayCrest": "https://crests.football-data.org/57.png"
@@ -175,8 +175,8 @@
       "home": "Real Madrid",
       "away": "Sevilla FC",
       "date": "2026-10-18T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayCrest": "https://crests.football-data.org/559.png"
