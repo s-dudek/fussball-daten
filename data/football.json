@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T12:58:19.689192+00:00",
+  "updated_at": "2026-10-20T17:50:22.465482+00:00",
   "matches": [
     {
       "home": "Osasuna",
@@ -105,7 +105,7 @@
       "home": "Sabah FK",
       "away": "Dortmund",
       "date": "2026-10-20T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/10233.png",
@@ -115,7 +115,7 @@
       "home": "Fenerbahçe",
       "away": "Slavia Praha",
       "date": "2026-10-20T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/613.png",
