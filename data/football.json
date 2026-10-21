@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:18:28.425955+00:00",
+  "updated_at": "2026-10-21T18:44:56.024513+00:00",
   "matches": [
     {
       "home": "Getafe",
@@ -115,8 +115,8 @@
       "home": "Como 1907",
       "away": "Man United",
       "date": "2026-10-21T16:45:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:1",
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/7397.png",
       "awayCrest": "https://crests.football-data.org/66.png"
@@ -125,8 +125,8 @@
       "home": "Lille",
       "away": "Galatasaray",
       "date": "2026-10-21T16:45:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:4",
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/521.png",
       "awayCrest": "https://crests.football-data.org/610.png"
@@ -135,7 +135,7 @@
       "home": "Levante",
       "away": "Athletic",
       "date": "2026-10-21T18:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/88.png",
