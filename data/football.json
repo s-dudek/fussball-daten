@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T20:03:52.407374+00:00",
+  "updated_at": "2026-10-23T23:11:21.475121+00:00",
   "matches": [
     {
       "home": "Como 1907",
@@ -105,8 +105,8 @@
       "home": "Alavés",
       "away": "Málaga",
       "date": "2026-10-23T19:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/84.png"
@@ -115,8 +115,8 @@
       "home": "Ipswich Town",
       "away": "Nottingham",
       "date": "2026-10-23T19:00:00Z",
-      "status": "PAUSED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/349.png",
       "awayCrest": "https://crests.football-data.org/351.png"
