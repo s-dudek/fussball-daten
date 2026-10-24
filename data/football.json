@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:46:55.455109+00:00",
+  "updated_at": "2026-10-24T20:06:34.499024+00:00",
   "matches": [
     {
       "home": "Alavés",
@@ -85,7 +85,7 @@
       "home": "Chelsea",
       "away": "Tottenham",
       "date": "2026-10-24T16:30:00Z",
-      "status": "IN_PLAY",
+      "status": "TIMED",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/61.png",
