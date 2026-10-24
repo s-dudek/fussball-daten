@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:33:53.223920+00:00",
+  "updated_at": "2026-10-24T14:50:56.506010+00:00",
   "matches": [
     {
       "home": "Alavés",
@@ -65,7 +65,7 @@
       "home": "Santander",
       "away": "Espanyol",
       "date": "2026-10-24T14:15:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/5335.png",
