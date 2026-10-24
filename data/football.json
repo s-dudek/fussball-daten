@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:06:34.499024+00:00",
+  "updated_at": "2026-10-24T22:31:45.497638+00:00",
   "matches": [
     {
       "home": "Alavés",
@@ -55,8 +55,8 @@
       "home": "Coventry City",
       "away": "Fulham",
       "date": "2026-10-24T14:00:00Z",
-      "status": "FINISHED",
-      "score": "0:1",
+      "status": "TIMED",
+      "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/1076.png",
       "awayCrest": "https://crests.football-data.org/63.png"
