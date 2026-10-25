@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T20:18:40.483121+00:00",
+  "updated_at": "2026-10-25T22:39:11.915301+00:00",
   "matches": [
     {
       "home": "Alavés",
@@ -185,8 +185,8 @@
       "home": "Barça",
       "away": "Real Madrid",
       "date": "2026-10-25T20:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayCrest": "https://crests.football-data.org/86.png"
