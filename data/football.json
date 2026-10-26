@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T18:42:26.442886+00:00",
+  "updated_at": "2026-10-26T22:59:40.366234+00:00",
   "matches": [
     {
       "home": "Aston Villa",
@@ -175,8 +175,8 @@
       "home": "Sevilla FC",
       "away": "Osasuna",
       "date": "2026-10-26T20:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/559.png",
       "awayCrest": "https://crests.football-data.org/79.png"
