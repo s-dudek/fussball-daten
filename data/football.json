@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-10-25T22:39:11.915301+00:00",
+  "updated_at": "2026-10-26T00:42:49.589427+00:00",
   "matches": [
-    {
-      "home": "Alavés",
-      "away": "Málaga",
-      "date": "2026-10-23T19:00:00Z",
-      "status": "FINISHED",
-      "score": "1:1",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/263.png",
-      "awayCrest": "https://crests.football-data.org/84.png"
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham",
-      "date": "2026-10-23T19:00:00Z",
-      "status": "FINISHED",
-      "score": "1:1",
-      "competition": "Premier League",
-      "homeCrest": "https://crests.football-data.org/349.png",
-      "awayCrest": "https://crests.football-data.org/351.png"
-    },
     {
       "home": "Aston Villa",
       "away": "Man City",
