@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-28T20:19:49.376837+00:00",
+  "updated_at": "2026-10-29T00:04:33.300039+00:00",
   "matches": [
-    {
-      "home": "Sevilla FC",
-      "away": "Osasuna",
-      "date": "2026-10-26T20:00:00Z",
-      "status": "FINISHED",
-      "score": "2:0",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/559.png",
-      "awayCrest": "https://crests.football-data.org/79.png"
-    },
     {
       "home": "Villarreal",
       "away": "Espanyol",
@@ -140,6 +130,56 @@
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/58.png",
       "awayCrest": "https://crests.football-data.org/63.png"
+    },
+    {
+      "home": "Getafe",
+      "away": "Sevilla FC",
+      "date": "2026-11-01T13:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/82.png",
+      "awayCrest": "https://crests.football-data.org/559.png"
+    },
+    {
+      "home": "Santander",
+      "away": "Real Madrid",
+      "date": "2026-11-01T15:15:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/5335.png",
+      "awayCrest": "https://crests.football-data.org/86.png"
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "date": "2026-11-01T16:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/64.png",
+      "awayCrest": "https://crests.football-data.org/57.png"
+    },
+    {
+      "home": "Elche",
+      "away": "Valencia",
+      "date": "2026-11-01T17:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/285.png",
+      "awayCrest": "https://crests.football-data.org/95.png"
+    },
+    {
+      "home": "Athletic",
+      "away": "Real Sociedad",
+      "date": "2026-11-01T20:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/77.png",
+      "awayCrest": "https://crests.football-data.org/92.png"
     }
   ]
 }
