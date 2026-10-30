@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T15:35:18.931592+00:00",
+  "updated_at": "2026-10-30T20:06:11.744306+00:00",
   "matches": [
     {
       "home": "Villarreal",
       "away": "Espanyol",
       "date": "2026-10-30T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/94.png",
