@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:31:53.065106+00:00",
+  "updated_at": "2026-11-02T21:54:25.091156+00:00",
   "matches": [
     {
       "home": "Chelsea",
@@ -175,7 +175,7 @@
       "home": "Deportivo",
       "away": "Osasuna",
       "date": "2026-11-02T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/560.png",
@@ -185,7 +185,7 @@
       "home": "Newcastle",
       "away": "Everton",
       "date": "2026-11-02T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/67.png",
