@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:58:55.318197+00:00",
+  "updated_at": "2026-11-03T18:19:37.080989+00:00",
   "matches": [
     {
       "home": "Getafe",
@@ -75,7 +75,7 @@
       "home": "Shaktar",
       "away": "Sporting CP",
       "date": "2026-11-03T17:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/1887.png",
@@ -85,7 +85,7 @@
       "home": "Galatasaray",
       "away": "Stuttgart",
       "date": "2026-11-03T17:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "UEFA Champions League",
       "homeCrest": "https://crests.football-data.org/610.png",
