@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-11-04T23:55:28.258673+00:00",
+  "updated_at": "2026-11-05T04:56:32.972280+00:00",
   "matches": [
-    {
-      "home": "Deportivo",
-      "away": "Osasuna",
-      "date": "2026-11-02T20:00:00Z",
-      "status": "FINISHED",
-      "score": "2:1",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/560.png",
-      "awayCrest": "https://crests.football-data.org/79.png"
-    },
-    {
-      "home": "Newcastle",
-      "away": "Everton",
-      "date": "2026-11-02T20:00:00Z",
-      "status": "FINISHED",
-      "score": "0:1",
-      "competition": "Premier League",
-      "homeCrest": "https://crests.football-data.org/67.png",
-      "awayCrest": "https://crests.football-data.org/62.png"
-    },
     {
       "home": "Shaktar",
       "away": "Sporting CP",
@@ -300,6 +280,106 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/86.png"
+    },
+    {
+      "home": "Elche",
+      "away": "Real Betis",
+      "date": "2026-11-08T13:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/285.png",
+      "awayCrest": "https://crests.football-data.org/90.png"
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "date": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/354.png",
+      "awayCrest": "https://crests.football-data.org/64.png"
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "date": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/71.png",
+      "awayCrest": "https://crests.football-data.org/61.png"
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Bournemouth",
+      "date": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/349.png",
+      "awayCrest": "https://crests.football-data.org/bournemouth.png"
+    },
+    {
+      "home": "Brighton Hove",
+      "away": "Brentford",
+      "date": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/397.png",
+      "awayCrest": "https://crests.football-data.org/402.png"
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Rayo Vallecano",
+      "date": "2026-11-08T15:15:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/92.png",
+      "awayCrest": "https://crests.football-data.org/87.png"
+    },
+    {
+      "home": "Man United",
+      "away": "Aston Villa",
+      "date": "2026-11-08T16:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Premier League",
+      "homeCrest": "https://crests.football-data.org/66.png",
+      "awayCrest": "https://crests.football-data.org/58.png"
+    },
+    {
+      "home": "Celta",
+      "away": "Levante",
+      "date": "2026-11-08T17:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/558.png",
+      "awayCrest": "https://crests.football-data.org/88.png"
+    },
+    {
+      "home": "Villarreal",
+      "away": "Getafe",
+      "date": "2026-11-08T17:30:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/94.png",
+      "awayCrest": "https://crests.football-data.org/82.png"
+    },
+    {
+      "home": "Atleti",
+      "away": "Barça",
+      "date": "2026-11-08T20:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/78.png",
+      "awayCrest": "https://crests.football-data.org/81.png"
     }
   ]
 }
