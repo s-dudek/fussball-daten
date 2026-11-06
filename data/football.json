@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:45:11.539497+00:00",
+  "updated_at": "2026-11-06T21:14:02.108906+00:00",
   "matches": [
     {
       "home": "PAE AEK",
@@ -95,7 +95,7 @@
       "home": "Sevilla FC",
       "away": "Alavés",
       "date": "2026-11-06T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/559.png",
@@ -105,7 +105,7 @@
       "home": "Everton",
       "away": "Coventry City",
       "date": "2026-11-06T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/62.png",
