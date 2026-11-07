@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:26:30.928449+00:00",
+  "updated_at": "2026-11-07T22:15:11.168814+00:00",
   "matches": [
     {
       "home": "Sevilla FC",
@@ -75,8 +75,8 @@
       "home": "Osasuna",
       "away": "Athletic",
       "date": "2026-11-07T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
       "awayCrest": "https://crests.football-data.org/77.png"
@@ -85,8 +85,8 @@
       "home": "Nottingham",
       "away": "Man City",
       "date": "2026-11-07T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/351.png",
       "awayCrest": "https://crests.football-data.org/65.png"
@@ -95,8 +95,8 @@
       "home": "Valencia",
       "away": "Real Madrid",
       "date": "2026-11-07T20:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:3",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayCrest": "https://crests.football-data.org/86.png"
