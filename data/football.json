@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:42:45.329355+00:00",
+  "updated_at": "2026-11-07T18:26:30.928449+00:00",
   "matches": [
     {
       "home": "Sevilla FC",
@@ -25,8 +25,8 @@
       "home": "Leeds United",
       "away": "Tottenham",
       "date": "2026-11-07T12:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/341.png",
       "awayCrest": "https://crests.football-data.org/73.png"
@@ -35,8 +35,8 @@
       "home": "Málaga",
       "away": "Santander",
       "date": "2026-11-07T13:00:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/84.png",
       "awayCrest": "https://crests.football-data.org/5335.png"
@@ -45,8 +45,8 @@
       "home": "Arsenal",
       "away": "Hull City",
       "date": "2026-11-07T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/57.png",
       "awayCrest": "https://crests.football-data.org/322.png"
@@ -55,8 +55,8 @@
       "home": "Fulham",
       "away": "Newcastle",
       "date": "2026-11-07T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/63.png",
       "awayCrest": "https://crests.football-data.org/67.png"
@@ -65,8 +65,8 @@
       "home": "Espanyol",
       "away": "Deportivo",
       "date": "2026-11-07T15:15:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/80.png",
       "awayCrest": "https://crests.football-data.org/560.png"
@@ -75,7 +75,7 @@
       "home": "Osasuna",
       "away": "Athletic",
       "date": "2026-11-07T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/79.png",
@@ -85,7 +85,7 @@
       "home": "Nottingham",
       "away": "Man City",
       "date": "2026-11-07T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/351.png",
