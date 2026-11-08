@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:17:50.943025+00:00",
+  "updated_at": "2026-11-08T22:57:12.892751+00:00",
   "matches": [
     {
       "home": "Sevilla FC",
@@ -175,8 +175,8 @@
       "home": "Celta",
       "away": "Levante",
       "date": "2026-11-08T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/558.png",
       "awayCrest": "https://crests.football-data.org/88.png"
@@ -185,8 +185,8 @@
       "home": "Villarreal",
       "away": "Getafe",
       "date": "2026-11-08T17:30:00Z",
-      "status": "IN_PLAY",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/94.png",
       "awayCrest": "https://crests.football-data.org/82.png"
@@ -195,8 +195,8 @@
       "home": "Atleti",
       "away": "Barça",
       "date": "2026-11-08T20:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:2",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/78.png",
       "awayCrest": "https://crests.football-data.org/81.png"
