@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-11-08T22:57:12.892751+00:00",
+  "updated_at": "2026-11-09T02:25:24.627707+00:00",
   "matches": [
-    {
-      "home": "Sevilla FC",
-      "away": "Alavés",
-      "date": "2026-11-06T20:00:00Z",
-      "status": "FINISHED",
-      "score": "0:0",
-      "competition": "Primera Division",
-      "homeCrest": "https://crests.football-data.org/559.png",
-      "awayCrest": "https://crests.football-data.org/263.png"
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "date": "2026-11-06T20:00:00Z",
-      "status": "FINISHED",
-      "score": "3:1",
-      "competition": "Premier League",
-      "homeCrest": "https://crests.football-data.org/62.png",
-      "awayCrest": "https://crests.football-data.org/1076.png"
-    },
     {
       "home": "Leeds United",
       "away": "Tottenham",
