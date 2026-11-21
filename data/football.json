@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:52:08.140341+00:00",
+  "updated_at": "2026-11-21T21:24:44.094176+00:00",
   "matches": [
     {
       "home": "Athletic",
@@ -15,8 +15,8 @@
       "home": "Man City",
       "away": "Fulham",
       "date": "2026-11-21T12:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/65.png",
       "awayCrest": "https://crests.football-data.org/63.png"
@@ -25,8 +25,8 @@
       "home": "Alavés",
       "away": "Deportivo",
       "date": "2026-11-21T13:00:00Z",
-      "status": "FINISHED",
-      "score": "3:1",
+      "status": "TIMED",
+      "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayCrest": "https://crests.football-data.org/560.png"
@@ -35,8 +35,8 @@
       "home": "Chelsea",
       "away": "Leeds United",
       "date": "2026-11-21T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:4",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/61.png",
       "awayCrest": "https://crests.football-data.org/341.png"
@@ -45,8 +45,8 @@
       "home": "Aston Villa",
       "away": "Sunderland",
       "date": "2026-11-21T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "0:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/58.png",
       "awayCrest": "https://crests.football-data.org/71.png"
@@ -55,8 +55,8 @@
       "home": "Bournemouth",
       "away": "Nottingham",
       "date": "2026-11-21T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/bournemouth.png",
       "awayCrest": "https://crests.football-data.org/351.png"
@@ -65,8 +65,8 @@
       "home": "Tottenham",
       "away": "Ipswich Town",
       "date": "2026-11-21T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/73.png",
       "awayCrest": "https://crests.football-data.org/349.png"
@@ -75,8 +75,8 @@
       "home": "Coventry City",
       "away": "Crystal Palace",
       "date": "2026-11-21T15:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/1076.png",
       "awayCrest": "https://crests.football-data.org/354.png"
@@ -85,7 +85,7 @@
       "home": "Rayo Vallecano",
       "away": "Valencia",
       "date": "2026-11-21T15:15:00Z",
-      "status": "IN_PLAY",
+      "status": "TIMED",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/87.png",
@@ -105,8 +105,8 @@
       "home": "Newcastle",
       "away": "Arsenal",
       "date": "2026-11-21T17:30:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/67.png",
       "awayCrest": "https://crests.football-data.org/57.png"
