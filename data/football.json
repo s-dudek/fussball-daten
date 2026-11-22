@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T08:45:47.677860+00:00",
+  "updated_at": "2026-11-22T16:51:01.209254+00:00",
   "matches": [
     {
       "home": "Athletic",
@@ -135,8 +135,8 @@
       "home": "Hull City",
       "away": "Brighton Hove",
       "date": "2026-11-22T14:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "2:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/322.png",
       "awayCrest": "https://crests.football-data.org/397.png"
@@ -155,7 +155,7 @@
       "home": "Liverpool",
       "away": "Man United",
       "date": "2026-11-22T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/64.png",
