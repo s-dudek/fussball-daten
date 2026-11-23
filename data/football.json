@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:41:33.765931+00:00",
+  "updated_at": "2026-11-23T23:17:21.840411+00:00",
   "matches": [
     {
       "home": "Man City",
@@ -175,8 +175,8 @@
       "home": "Levante",
       "away": "Elche",
       "date": "2026-11-23T20:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "1:1",
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/88.png",
       "awayCrest": "https://crests.football-data.org/285.png"
@@ -185,8 +185,8 @@
       "home": "Brentford",
       "away": "Everton",
       "date": "2026-11-23T20:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "4:0",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/402.png",
       "awayCrest": "https://crests.football-data.org/62.png"
