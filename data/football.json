@@ -1,96 +1,6 @@
 {
-  "updated_at": "2026-11-26T22:33:07.461180+00:00",
+  "updated_at": "2026-11-27T04:29:50.606051+00:00",
   "matches": [
-    {
-      "home": "Galatasaray",
-      "away": "Aston Villa",
-      "date": "2026-11-24T17:45:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/610.png",
-      "awayCrest": "https://crests.football-data.org/58.png"
-    },
-    {
-      "home": "Bodø/Glimt",
-      "away": "LASK",
-      "date": "2026-11-24T17:45:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/5721.png",
-      "awayCrest": "https://crests.football-data.org/2016.png"
-    },
-    {
-      "home": "Real Madrid",
-      "away": "PSV",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "5:1",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/86.png",
-      "awayCrest": "https://crests.football-data.org/674.png"
-    },
-    {
-      "home": "Man City",
-      "away": "Napoli",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "2:2",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/65.png",
-      "awayCrest": "https://crests.football-data.org/113.png"
-    },
-    {
-      "home": "Arsenal",
-      "away": "Dortmund",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "1:1",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/57.png",
-      "awayCrest": "https://crests.football-data.org/4.png"
-    },
-    {
-      "home": "Feyenoord",
-      "away": "Porto",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "0:1",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/675.png",
-      "awayCrest": "https://crests.football-data.org/503.png"
-    },
-    {
-      "home": "Sl. Bratislava",
-      "away": "Real Betis",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "0:2",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/7509.png",
-      "awayCrest": "https://crests.football-data.org/90.png"
-    },
-    {
-      "home": "RB Leipzig",
-      "away": "RC Lens",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "3:1",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/721.png",
-      "awayCrest": "https://crests.football-data.org/546.png"
-    },
-    {
-      "home": "Como 1907",
-      "away": "PAE AEK",
-      "date": "2026-11-24T20:00:00Z",
-      "status": "FINISHED",
-      "score": "1:0",
-      "competition": "UEFA Champions League",
-      "homeCrest": "https://crests.football-data.org/7397.png",
-      "awayCrest": "https://crests.football-data.org/1899.png"
-    },
     {
       "home": "Sabah FK",
       "away": "Barça",
@@ -370,6 +280,16 @@
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/92.png",
       "awayCrest": "https://crests.football-data.org/559.png"
+    },
+    {
+      "home": "Espanyol",
+      "away": "Getafe",
+      "date": "2026-11-30T20:00:00Z",
+      "status": "TIMED",
+      "score": null,
+      "competition": "Primera Division",
+      "homeCrest": "https://crests.football-data.org/80.png",
+      "awayCrest": "https://crests.football-data.org/82.png"
     }
   ]
 }
