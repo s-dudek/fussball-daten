@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T14:16:37.719653+00:00",
+  "updated_at": "2026-11-27T22:45:00.120360+00:00",
   "matches": [
     {
       "home": "Sabah FK",
@@ -105,8 +105,8 @@
       "home": "Nottingham",
       "away": "Chelsea",
       "date": "2026-11-27T20:00:00Z",
-      "status": "TIMED",
-      "score": null,
+      "status": "FINISHED",
+      "score": "3:2",
       "competition": "Premier League",
       "homeCrest": "https://crests.football-data.org/351.png",
       "awayCrest": "https://crests.football-data.org/61.png"
