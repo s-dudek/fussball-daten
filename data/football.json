@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T04:28:22.123049+00:00",
+  "updated_at": "2026-11-28T13:32:16.330825+00:00",
   "matches": [
     {
       "home": "Levante",
@@ -25,7 +25,7 @@
       "home": "Real Betis",
       "away": "Rayo Vallecano",
       "date": "2026-11-28T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "score": null,
       "competition": "Primera Division",
       "homeCrest": "https://crests.football-data.org/90.png",
